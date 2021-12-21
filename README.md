@@ -19,7 +19,7 @@
 
 ### 크롤링 사이트
 
-[https://finance.naver.com/news/news_search.naver?rcdate=0&q=�Ｚ����&x=30&y=6&sm=title.basic&pd=1&stDateStart=1997-01-01&stDateEnd=2021-12-16](https://finance.naver.com/news/news_search.naver?rcdate=0&q=%BB%EF%BC%BA%C0%FC%C0%DA&x=30&y=6&sm=title.basic&pd=1&stDateStart=1997-01-01&stDateEnd=2021-12-16) 
+[https://finance.naver.com/news/news_search.naver]
 
 ### DB만들면
 
